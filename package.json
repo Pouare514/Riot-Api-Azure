@@ -1,0 +1,15 @@
+{
+  "name": "riot-data-fetcher",
+  "version": "1.0.0",
+  "description": "Azure Function to fetch PUUID from Riot API",
+  "scripts": {
+    "start": "func start",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
