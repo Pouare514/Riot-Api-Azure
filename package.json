@@ -7,7 +7,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "mssql": "^*",
     "node-fetch": "^2.6.7"
   },
