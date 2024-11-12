@@ -19,7 +19,7 @@ Voici un guide étape par étape pour déployer ce projet sur Azure Functions :
 
 ### Étapes de déploiement
 
-1. **Clone le dépôt :** `git clone https://github.com/ton_nom_utilisateur/GetRiotData.git && cd GetRiotData`
+1. **Clone le dépôt :** `git clone https://github.com/Pouare514/GetRiotData.git && cd GetRiotData`
 
 2. **Installe les dépendances :** Assure-toi d'être dans le répertoire de ton projet et exécute : `npm install`
 
